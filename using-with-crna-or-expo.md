@@ -9,7 +9,7 @@ yarn add react-native-elements
 or
 
 ```
-npm install react-native-elements --save
+npm install --save react-native-elements 
 ```
 
 **Note:**
